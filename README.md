@@ -1,0 +1,4 @@
+# FastBloomForMobiles
+A bloom that is 60% faster than Unity’s built-in bloom and is specially optimized for mobile platforms. This bloom can be applied to only intended specific objects. And its intensity and threshold can be controlled per-object. This bloom can be applied to objects with random moving shapes (like glittering water surface under the sun). On top of that, color grading is well integrated and costs little extra performance.
+怎么用：导入package或者直接把Asset拷到你工程里，然后使用教程是FastBloomForMobiles_tutorial这个pdf文件，就算只是跑跑看也要改几个工程设置，建议还是看看教程。
+How to Use: import that package or just copy the Asset into your project. The tutorial is FastBloomForMobiles_tutorial.pdf. Even if you're just going to simply run it to see how it looks like, you still need to change several project settings, reading the tutorial is still recommended.
